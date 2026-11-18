@@ -2,7 +2,7 @@
   "pose_convention": "camera_to_world",
   "frames": [
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00850.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00850.JPG",
       "K": [
         [
           464.03189647464455,
@@ -49,7 +49,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00851.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00851.JPG",
       "K": [
         [
           464.03189647464455,
@@ -96,7 +96,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00852.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00852.JPG",
       "K": [
         [
           464.03189647464455,
@@ -143,7 +143,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00853.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00853.JPG",
       "K": [
         [
           464.03189647464455,
@@ -190,7 +190,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00854.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00854.JPG",
       "K": [
         [
           464.03189647464455,
@@ -237,7 +237,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00855.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00855.JPG",
       "K": [
         [
           464.03189647464455,
@@ -284,7 +284,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00856.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00856.JPG",
       "K": [
         [
           464.03189647464455,
@@ -331,7 +331,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00857.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00857.JPG",
       "K": [
         [
           464.03189647464455,
@@ -378,7 +378,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00858.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00858.JPG",
       "K": [
         [
           464.03189647464455,
@@ -425,7 +425,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00859.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00859.JPG",
       "K": [
         [
           464.03189647464455,
@@ -472,7 +472,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00860.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00860.JPG",
       "K": [
         [
           464.03189647464455,
@@ -519,7 +519,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00861.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00861.JPG",
       "K": [
         [
           464.03189647464455,
@@ -566,7 +566,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00862.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00862.JPG",
       "K": [
         [
           464.03189647464455,
@@ -613,7 +613,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00863.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00863.JPG",
       "K": [
         [
           464.03189647464455,
@@ -660,7 +660,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00864.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00864.JPG",
       "K": [
         [
           464.03189647464455,
@@ -707,7 +707,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00865.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00865.JPG",
       "K": [
         [
           464.03189647464455,
@@ -754,7 +754,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00866.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00866.JPG",
       "K": [
         [
           464.03189647464455,
@@ -801,7 +801,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00867.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00867.JPG",
       "K": [
         [
           464.03189647464455,
@@ -848,7 +848,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00868.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00868.JPG",
       "K": [
         [
           464.03189647464455,
@@ -895,7 +895,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00872.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00872.JPG",
       "K": [
         [
           464.03189647464455,
@@ -942,7 +942,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00870.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00870.JPG",
       "K": [
         [
           464.03189647464455,
@@ -989,7 +989,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00871.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00871.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1036,7 +1036,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00869.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00869.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1083,7 +1083,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00873.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00873.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1130,7 +1130,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00874.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00874.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1177,7 +1177,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00875.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00875.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1224,7 +1224,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00876.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00876.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1271,7 +1271,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00877.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00877.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1318,7 +1318,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00878.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00878.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1365,7 +1365,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00879.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00879.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1412,7 +1412,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00883.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00883.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1459,7 +1459,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00881.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00881.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1506,7 +1506,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00882.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00882.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1553,7 +1553,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00880.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00880.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1600,7 +1600,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00884.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00884.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1647,7 +1647,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00885.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00885.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1694,7 +1694,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00889.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00889.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1741,7 +1741,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00887.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00887.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1788,7 +1788,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00891.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00891.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1835,7 +1835,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00886.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00886.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1882,7 +1882,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00890.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00890.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1929,7 +1929,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00888.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00888.JPG",
       "K": [
         [
           464.03189647464455,
@@ -1976,7 +1976,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00895.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00895.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2023,7 +2023,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00893.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00893.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2070,7 +2070,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00894.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00894.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2117,7 +2117,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00892.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00892.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2164,7 +2164,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00896.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00896.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2211,7 +2211,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00897.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00897.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2258,7 +2258,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00898.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00898.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2305,7 +2305,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00899.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00899.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2352,7 +2352,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00900.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00900.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2399,7 +2399,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00901.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00901.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2446,7 +2446,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00902.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00902.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2493,7 +2493,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00903.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00903.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2540,7 +2540,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00904.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00904.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2587,7 +2587,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00905.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00905.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2634,7 +2634,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00906.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00906.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2681,7 +2681,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00907.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00907.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2728,7 +2728,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00908.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00908.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2775,7 +2775,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00909.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00909.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2822,7 +2822,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00910.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00910.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2869,7 +2869,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00911.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00911.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2916,7 +2916,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00912.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00912.JPG",
       "K": [
         [
           464.03189647464455,
@@ -2963,7 +2963,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00913.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00913.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3010,7 +3010,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00914.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00914.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3057,7 +3057,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00915.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00915.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3104,7 +3104,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00916.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00916.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3151,7 +3151,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00917.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00917.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3198,7 +3198,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00918.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00918.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3245,7 +3245,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00919.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00919.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3292,7 +3292,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00920.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00920.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3339,7 +3339,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00921.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00921.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3386,7 +3386,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00922.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00922.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3433,7 +3433,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00923.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00923.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3480,7 +3480,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00924.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00924.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3527,7 +3527,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00925.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00925.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3574,7 +3574,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00926.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00926.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3621,7 +3621,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00927.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00927.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3668,7 +3668,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00928.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00928.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3715,7 +3715,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00929.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00929.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3762,7 +3762,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00930.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00930.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3809,7 +3809,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00931.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00931.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3856,7 +3856,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00932.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00932.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3903,7 +3903,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00933.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00933.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3950,7 +3950,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00934.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00934.JPG",
       "K": [
         [
           464.03189647464455,
@@ -3997,7 +3997,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00935.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00935.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4044,7 +4044,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00936.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00936.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4091,7 +4091,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00937.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00937.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4138,7 +4138,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00938.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00938.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4185,7 +4185,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00939.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00939.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4232,7 +4232,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00940.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00940.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4279,7 +4279,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00941.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00941.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4326,7 +4326,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00942.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00942.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4373,7 +4373,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00943.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00943.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4420,7 +4420,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00944.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00944.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4467,7 +4467,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00945.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00945.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4514,7 +4514,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00946.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00946.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4561,7 +4561,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00947.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00947.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4608,7 +4608,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00948.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00948.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4655,7 +4655,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00949.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00949.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4702,7 +4702,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00950.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00950.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4749,7 +4749,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00951.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00951.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4796,7 +4796,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00952.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00952.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4843,7 +4843,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00953.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00953.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4890,7 +4890,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00954.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00954.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4937,7 +4937,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00955.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00955.JPG",
       "K": [
         [
           464.03189647464455,
@@ -4984,7 +4984,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00956.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00956.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5031,7 +5031,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00959.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00959.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5078,7 +5078,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00958.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00958.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5125,7 +5125,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00957.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00957.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5172,7 +5172,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00960.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00960.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5219,7 +5219,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00961.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00961.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5266,7 +5266,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00962.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00962.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5313,7 +5313,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00963.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00963.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5360,7 +5360,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00964.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00964.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5407,7 +5407,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00967.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00967.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5454,7 +5454,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00966.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00966.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5501,7 +5501,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00965.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00965.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5548,7 +5548,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00968.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00968.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5595,7 +5595,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00969.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00969.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5642,7 +5642,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00970.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00970.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5689,7 +5689,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00971.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00971.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5736,7 +5736,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00972.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00972.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5783,7 +5783,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00973.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00973.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5830,7 +5830,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00974.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00974.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5877,7 +5877,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00975.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00975.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5924,7 +5924,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00976.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00976.JPG",
       "K": [
         [
           464.03189647464455,
@@ -5971,7 +5971,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00977.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00977.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6018,7 +6018,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00978.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00978.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6065,7 +6065,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00979.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00979.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6112,7 +6112,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00980.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00980.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6159,7 +6159,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00981.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00981.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6206,7 +6206,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00982.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00982.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6253,7 +6253,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00983.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00983.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6300,7 +6300,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00984.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00984.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6347,7 +6347,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00985.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00985.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6394,7 +6394,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00986.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00986.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6441,7 +6441,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00987.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00987.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6488,7 +6488,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00988.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00988.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6535,7 +6535,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00989.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00989.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6582,7 +6582,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00990.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00990.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6629,7 +6629,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00991.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00991.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6676,7 +6676,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00992.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00992.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6723,7 +6723,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00993.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00993.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6770,7 +6770,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00994.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00994.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6817,7 +6817,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00995.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00995.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6864,7 +6864,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00996.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00996.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6911,7 +6911,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00997.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00997.JPG",
       "K": [
         [
           464.03189647464455,
@@ -6958,7 +6958,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00998.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00998.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7005,7 +7005,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00999.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC00999.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7052,7 +7052,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01000.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01000.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7099,7 +7099,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01001.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01001.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7146,7 +7146,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01002.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01002.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7193,7 +7193,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01003.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01003.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7240,7 +7240,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01004.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01004.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7287,7 +7287,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01005.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01005.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7334,7 +7334,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01006.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01006.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7381,7 +7381,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01007.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01007.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7428,7 +7428,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01008.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01008.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7475,7 +7475,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01009.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01009.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7522,7 +7522,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01010.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01010.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7569,7 +7569,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01011.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01011.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7616,7 +7616,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01012.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01012.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7663,7 +7663,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01013.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01013.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7710,7 +7710,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01014.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01014.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7757,7 +7757,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01015.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01015.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7804,7 +7804,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01016.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01016.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7851,7 +7851,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01017.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01017.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7898,7 +7898,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01018.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01018.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7945,7 +7945,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01019.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01019.JPG",
       "K": [
         [
           464.03189647464455,
@@ -7992,7 +7992,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01020.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01020.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8039,7 +8039,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01021.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01021.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8086,7 +8086,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01022.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01022.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8133,7 +8133,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01023.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01023.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8180,7 +8180,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01024.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01024.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8227,7 +8227,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01025.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01025.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8274,7 +8274,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01026.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01026.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8321,7 +8321,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01027.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01027.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8368,7 +8368,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01028.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01028.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8415,7 +8415,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01029.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01029.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8462,7 +8462,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01030.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01030.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8509,7 +8509,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01031.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01031.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8556,7 +8556,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01032.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01032.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8603,7 +8603,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01033.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01033.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8650,7 +8650,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01034.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01034.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8697,7 +8697,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01035.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01035.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8744,7 +8744,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01036.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01036.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8791,7 +8791,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01037.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01037.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8838,7 +8838,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01040.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01040.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8885,7 +8885,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01039.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01039.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8932,7 +8932,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01038.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01038.JPG",
       "K": [
         [
           464.03189647464455,
@@ -8979,7 +8979,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01041.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01041.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9026,7 +9026,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01042.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01042.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9073,7 +9073,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01043.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01043.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9120,7 +9120,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01044.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01044.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9167,7 +9167,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01045.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01045.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9214,7 +9214,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01048.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01048.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9261,7 +9261,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01049.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01049.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9308,7 +9308,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01046.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01046.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9355,7 +9355,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01051.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01051.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9402,7 +9402,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01052.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01052.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9449,7 +9449,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01047.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01047.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9496,7 +9496,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01054.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01054.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9543,7 +9543,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01053.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01053.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9590,7 +9590,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01050.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01050.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9637,7 +9637,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01057.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01057.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9684,7 +9684,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01056.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01056.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9731,7 +9731,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01055.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01055.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9778,7 +9778,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01058.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01058.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9825,7 +9825,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01059.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01059.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9872,7 +9872,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01060.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01060.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9919,7 +9919,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01061.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01061.JPG",
       "K": [
         [
           464.03189647464455,
@@ -9966,7 +9966,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01062.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01062.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10013,7 +10013,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01063.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01063.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10060,7 +10060,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01066.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01066.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10107,7 +10107,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01065.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01065.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10154,7 +10154,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01064.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01064.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10201,7 +10201,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01067.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01067.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10248,7 +10248,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01068.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01068.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10295,7 +10295,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01069.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01069.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10342,7 +10342,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01072.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01072.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10389,7 +10389,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01073.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01073.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10436,7 +10436,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01070.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01070.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10483,7 +10483,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01071.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01071.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10530,7 +10530,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01074.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01074.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10577,7 +10577,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01075.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01075.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10624,7 +10624,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01076.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01076.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10671,7 +10671,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01077.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01077.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10718,7 +10718,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01078.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01078.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10765,7 +10765,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01079.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01079.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10812,7 +10812,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01080.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01080.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10859,7 +10859,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01081.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01081.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10906,7 +10906,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01082.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01082.JPG",
       "K": [
         [
           464.03189647464455,
@@ -10953,7 +10953,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01083.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01083.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11000,7 +11000,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01084.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01084.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11047,7 +11047,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01085.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01085.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11094,7 +11094,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01086.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01086.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11141,7 +11141,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01087.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01087.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11188,7 +11188,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01088.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01088.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11235,7 +11235,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01089.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01089.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11282,7 +11282,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01090.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01090.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11329,7 +11329,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01091.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01091.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11376,7 +11376,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01092.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01092.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11423,7 +11423,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01093.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01093.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11470,7 +11470,7 @@
       "split": "train"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01096.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01096.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11517,7 +11517,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01095.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01095.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11564,7 +11564,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01097.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01097.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11611,7 +11611,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01098.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01098.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11658,7 +11658,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01099.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01099.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11705,7 +11705,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01100.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01100.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11752,7 +11752,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01101.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01101.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11799,7 +11799,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01102.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01102.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11846,7 +11846,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01103.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01103.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11893,7 +11893,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01104.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01104.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11940,7 +11940,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01105.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01105.JPG",
       "K": [
         [
           464.03189647464455,
@@ -11987,7 +11987,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01106.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01106.JPG",
       "K": [
         [
           464.03189647464455,
@@ -12034,7 +12034,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01107.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01107.JPG",
       "K": [
         [
           464.03189647464455,
@@ -12081,7 +12081,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01108.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01108.JPG",
       "K": [
         [
           464.03189647464455,
@@ -12128,7 +12128,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01109.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01109.JPG",
       "K": [
         [
           464.03189647464455,
@@ -12175,7 +12175,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01110.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01110.JPG",
       "K": [
         [
           464.03189647464455,
@@ -12222,7 +12222,7 @@
       "split": "test"
     },
     {
-      "image": "/coc/flash5/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01111.JPG",
+      "image": "/storage/ice1/6/2/arane33/vlm-project/dataset/00777c41d4/resized_undistorted_images/DSC01111.JPG",
       "K": [
         [
           464.03189647464455,
