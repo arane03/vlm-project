@@ -9,6 +9,7 @@ description = "End-to-end known-camera pipeline for GraphDECO 3D Gaussian Splatt
 requires-python = ">=3.10"
 dependencies = [
     "numpy>=1.24",
+    "opencv-python-headless>=5.1.0.95",
     "Pillow>=10.0",
     "plyfile>=1.0",
     "pytest>=9.2.0",
